@@ -1,0 +1,1 @@
+create table cuenta(numero int, saldo float, foreign key(numero) references usuario(IdCuenta));

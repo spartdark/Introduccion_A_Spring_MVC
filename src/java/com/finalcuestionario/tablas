@@ -1,0 +1,1 @@
+create table prueba (Id integer primary key auto_increment, nombre varchar(80))
